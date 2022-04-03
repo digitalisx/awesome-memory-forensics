@@ -56,6 +56,10 @@ A curated list of awesome Memory Forensics for DFIR.
 
 ## Articles
 
+### Blogs
+
+### WriteUps
+
 ## Papers
 ### DFRWS EU 2022
 - Extraction and analysis of retrievable memory artifacts from Windows Telegram Desktop application
