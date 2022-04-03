@@ -2,10 +2,14 @@
 
 A curated list of awesome Memory Forensics for DFIR.
 
-## Tutorials
+## Fundamental
 - Operating Systems
 - Computer Structure
 - Reverse Engineering
+- Malware Analysis
+- Windows Internals
+- Digital Forensics
+- Incident Response
 
 ## Tools
 
@@ -18,6 +22,7 @@ A curated list of awesome Memory Forensics for DFIR.
 
 ### Memory Analysis
 
+- Volcano
 - Volatility3
 - Volatility
 - Rekall
@@ -49,10 +54,18 @@ A curated list of awesome Memory Forensics for DFIR.
 - Forensic Memory Acquisition in Linux - LiME
 - 
 
-## Article
+## Articles
 
+## Papers
+### DFRWS EU 2022
+- Extraction and analysis of retrievable memory artifacts from Windows Telegram Desktop application
+- Defining Atomicity (and Integrity) for Snapshots of Storage in Forensic Computing
+- Memory forensic analysis of a programmable logic controller in industrial control systems
+### DFRWS USA 2021
+- Duck Hunt: Memory Forensics of USB Attack Platforms
+- Seance: Divination of Tool-Breaking Changes in Forensically Important Binaries
+- Leveraging Intel DCI for Memory Forensics
 
-## Related Paper
 
 ## Test Dataset
 
