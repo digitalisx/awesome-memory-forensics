@@ -33,6 +33,7 @@ Introduce commercial and open source tools for memory analysis.
 - [**Volatility**](https://github.com/volatilityfoundation/volatility) - The Volatility Framework is a completely open collection of tools,
 implemented in Python under the GNU General Public License, for the
 extraction of digital artifacts from volatile memory (RAM) samples. (***Deprecated***)
+- [**Volafox**](https://github.com/n0fate/volafox) - Mac OS X Memory Analysis Toolkit' is developed on Python 2.x (***Deprecated***)
 - [**Rekall**](https://github.com/google/rekall) - A new branch within the Volatility project was created to explore how to make the code base more modular, improve performance, and increase usability. (***Deprecated***)
 - [**Redline**](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/debugger-download-tools) - The Windows Debugger (WinDbg) can be used to debug kernel-mode and user-mode code, analyze crash dumps, and examine the CPU registers while the code executes. (***Deprecated***)
 
@@ -64,6 +65,7 @@ extraction of digital artifacts from volatile memory (RAM) samples. (***Deprecat
 - 
 
 ## Articles
+
 
 ### Blogs
 
