@@ -16,13 +16,16 @@ A curated list of awesome Memory Forensics for DFIR.
 ### Memory Acquisition
 Introduce commercial and open source tools for memory acquisition.
 
-- MAGNET RAM
+* [**Magnet RAM Capture**](https://www.magnetforensics.com/free-tool-magnet-ram-capture/) - Free imaging tool designed to capture the physical memory of a suspect’s computer. Supports recent versions of Windows.
+* [**Belkasoft Live RAM Capturer**](http://belkasoft.com/ram-capturer) - Tiny free forensic tool to reliably extract the entire content of the computer’s volatile memory – even if protected by an active anti-debugging or anti-dumping system.
+* [**Surge**](https://www.volexity.com/products-overview/surge/) - Volexity’s Surge Collect offers flexible storage options and an intuitive interface that any responder can run to eliminate the issues associated with the corrupt data samples, crashed target computers, and ultimately, unusable data that commonly results from using other tools.
+* [**AVML**](https://github.com/microsoft/avml) - A portable volatile memory acquisition tool for Linux.
+* [**LiME**](https://github.com/504ensicsLabs/LiME) - Loadable Kernel Module (LKM), which allows the acquisition of volatile memory from Linux and Linux-based devices, formerly called DMD.
+* [**Linux Memory Grabber**](https://github.com/halpomeranz/lmg/) - Script for dumping Linux memory and creating Volatility profiles.
+* [**OSForensics**](http://www.osforensics.com/) - Tool to acquire live memory on 32-bit and 64-bit systems. A dump of an individual process’s memory space or physical memory dump can be done.
 - MDD
 - FTK Imager
 - Winpmem
-https://belkasoft.com/ram-capturer
-- LiME()
-- AVML()
 - fmem
 
 ### Memory Analysis
