@@ -1,8 +1,9 @@
-# Awesome Memory Forensics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Memory Forensics
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome Memory Forensics for DFIR.
 
-## Fundamental
+# Fundamental
 - Operating Systems
 - Computer Structure
 - Reverse Engineering
@@ -11,9 +12,9 @@ A curated list of awesome Memory Forensics for DFIR.
 - Digital Forensics
 - Incident Response
 
-## Tools
+# ⚙️ Tools
 
-### Memory Acquisition
+## Memory Acquisition
 Introduce commercial and open source tools for memory acquisition.
 
 - MAGNET RAM
@@ -25,7 +26,7 @@ https://belkasoft.com/ram-capturer
 - AVML()
 - fmem
 
-### Memory Analysis
+## Memory Analysis
 Introduce commercial and open source tools for memory analysis.
 - [**Volcano**](https://www.volexity.com/products-overview/volcano) - A comprehensive, cross-platform, next- generation memory analysis solution, Volexity Volcano Professional’s powerful core extracts, indexes, and correlates artifacts to provide unprecedented visibility into systems’ runtime state and trustworthiness.
 - [**Volatility3**](https://github.com/volatilityfoundation/volatility3) - Volatility is the world's most widely used framework for extracting digital artifacts from volatile memory (RAM) samples.
@@ -39,30 +40,40 @@ extraction of digital artifacts from volatile memory (RAM) samples. (***Deprecat
 
 
 ## Books
-- [**The Art of Memory Forensics**]()
+- [**The Art of Memory Forensics**]() - Detecting Malware and Threats in Windows, Linux, and Mac Memory
+- [**Practical Memory Forensics**]() - Jumpstart effective forensic analysis of volatile memory
+
 
 ## Course
 - [**Malware and Memory Forensics Training**](https://www.memoryanalysis.net/memory-forensics-training)
 
-## Videos
+## 🖥 Videos
 
 ### 13 Cubed
-- Introduction to Memory Forensics
-- Windows Memory Analysis
-- Windows Process Genealogy
-- Memory Forensics Baselines
-- Extracting Prefetch from Memory
-- Detecting Persistence in Memory
-- Introduction to Redline
-- Profiling Network Activity with Volatility 3 - GeoIP from Memory
-- Volatility Profiles and Windows 10
-- Dumping Processes with Volatility 3
-- First Look at Volatility 3 Public Beta
-- Volatility 3 and WSL 2 - Linux DFIR Tools in Windows?
+- [**Introduction to Memory Forensics**](https://www.youtube.com/watch?v=1PAGcPJFwbE)
+- [**Windows Memory Analysis**](https://www.youtube.com/watch?v=gHbejxlPbRQ)
+- [**Windows Process Genealogy**](https://www.youtube.com/watch?v=s98_p3bheL0)
+- [**Windows Process Genealogy (Update)**](https://www.youtube.com/watch?v=vpSIw-zGhhE)
+- [**Memory Forensics Baselines**](https://www.youtube.com/watch?v=1thWaC6uvI4)
+- [**Extracting Prefetch from Memory**](https://www.youtube.com/watch?v=6y9Wxch7NKk)
+- [**Detecting Persistence in Memory**](https://www.youtube.com/watch?v=shF8hAprD4g)
+- [**Introduction to Redline**](https://www.youtube.com/watch?v=tCIEYCWTdk4)
+- [**Introduction to Redline (Update)**](https://www.youtube.com/watch?v=Oiac0t0RllM)
+- [**Profiling Network Activity with Volatility 3 - GeoIP from Memory**](https://www.youtube.com/watch?v=egv63oso8Qc)
+- [**Volatility Profiles and Windows 10**](https://www.youtube.com/watch?v=Us1gbPqtdtY)
+- [**Dumping Processes with Volatility 3**](https://www.youtube.com/watch?v=v9oFztyRkbA)
+- [**First Look at Volatility 3 Public Beta**](https://www.youtube.com/watch?v=ozeedYjv5Lw)
+- [**Volatility 3 and WSL 2 - Linux DFIR Tools in Windows?**](https://www.youtube.com/watch?v=rwTWZ7Q5i_w)
 
 ### DFIR Science
 - Forensic Memory Acquisition in Linux - LiME
 - 
+
+### Black Hat
+- [Investigating Malware Using Memory Forensics - A Practical Approach](https://www.youtube.com/watch?v=BMFCdAGxVN4)
+
+### SANS Digital Forensics and Incident Response
+- [SANS DFIR Webcast - Memory Forensics for Incident Response](https://www.youtube.com/watch?v=3xAEsDT-4NA)
 
 ## Articles
 
@@ -84,8 +95,19 @@ extraction of digital artifacts from volatile memory (RAM) samples. (***Deprecat
 
 ## Test Dataset
 
-## Challenge
-- Volatility Plugin Contest
-- Volatility Analysis Contest
+# 🏆 Challenges
+- 2021 Volatility Plugin Contest
+- 2020 Volatility Plugin Contest
+- 2019 Volatility Plugin & Analysis Contests
+- 2018 Volatility Plugin & Analysis Contests
+- 2017 Volatility Plugin Contest
+- 2016 Volatility Plugin Contest
+- 2015 Volatility Plugin Contest
+- 2014 Volatility Plugin Contest
+- 2013 Volatility Plugin Contest
+# 🌳 Contributors
+Thank you for your 
 
-## Contribution
+<a href="https://github.com/Digitalisx/awesome-memory-forensics/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Digitalisx/awesome-memory-forensics" />
+</a>
