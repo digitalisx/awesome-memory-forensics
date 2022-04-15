@@ -96,15 +96,17 @@ extraction of digital artifacts from volatile memory (RAM) samples. (***Deprecat
 ## Test Dataset
 
 ## 🏆 Challenges
-- 2021 Volatility Plugin Contest
-- 2020 Volatility Plugin Contest
-- 2019 Volatility Plugin & Analysis Contests
-- 2018 Volatility Plugin & Analysis Contests
-- 2017 Volatility Plugin Contest
-- 2016 Volatility Plugin Contest
-- 2015 Volatility Plugin Contest
-- 2014 Volatility Plugin Contest
-- 2013 Volatility Plugin Contest
+- [**2021 Volatility Plugin Contest**](https://volatility-labs.blogspot.com/2022/02/the-2021-volatility-plugin-contest-results.html)
+- [**2020 Volatility Plugin Contest**](https://volatility-labs.blogspot.com/2020/11/the-2020-volatility-plugin-contest-results.html)
+- [**2019 Volatility Plugin & Analysis Contests**](https://volatility-labs.blogspot.com/2019/11/results-from-2019-volatility-contests.html)
+- [**2018 Volatility Plugin & Analysis Contests**](https://volatility-labs.blogspot.com/2018/11/results-from-annual-2018-volatility-contests.html)
+- [**2017 Volatility Plugin Contest**](https://volatility-labs.blogspot.com/2017/11/results-from-5th-annual-2017-volatility.html)
+- [**2016 Volatility Plugin Contest**](https://volatility-labs.blogspot.com/2016/12/results-from-2016-volatility-plugin.html)
+- [**2015 Volatility Plugin Contest**](https://www.volatilityfoundation.org/2015)
+- [**2014 Volatility Plugin Contest**](https://www.volatilityfoundation.org/2014-cjpn)
+- [**2013 Volatility Plugin Contest**](https://www.volatilityfoundation.org/2013-c19yz)
+
+
 ## 🌳 Contributors
 Thank you for your 
 
