@@ -17,14 +17,13 @@ A curated list of awesome Memory Forensics for DFIR.
 ## Memory Acquisition
 Introduce commercial and open source tools for memory acquisition.
 
-- MAGNET RAM
-- MDD
-- FTK Imager
-- Winpmem
-https://belkasoft.com/ram-capturer
-- LiME()
-- AVML()
-- fmem
+- [**MAGNET RAM**](https://www.magnetforensics.com/resources/magnet-ram-capture/)
+- [**FTK Imager**](https://www.exterro.com/ftk-imager)
+- [**Winpmem**](https://github.com/Velocidex/WinPmem)
+- [**Ram Capturer**](https://belkasoft.com/ram-capturer)
+- [**LiME**](https://github.com/504ensicsLabs/LiME)
+- [**AVML**](https://github.com/microsoft/avml)
+- [**fmem**](https://github.com/NateBrune/fmem)
 
 ## Memory Analysis
 Introduce commercial and open source tools for memory analysis.
