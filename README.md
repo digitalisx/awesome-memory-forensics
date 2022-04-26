@@ -24,6 +24,7 @@ Introduce commercial and open source tools for memory acquisition.
 - [**LiME**](https://github.com/504ensicsLabs/LiME)
 - [**AVML**](https://github.com/microsoft/avml)
 - [**fmem**](https://github.com/NateBrune/fmem)
+- [**FEX Memory Imager**](https://getdataforensics.com/product/fex-memory-imager/)
 
 ## Memory Analysis
 Introduce commercial and open source tools for memory analysis.
