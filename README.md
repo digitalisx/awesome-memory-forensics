@@ -40,8 +40,8 @@ extraction of digital artifacts from volatile memory (RAM) samples. (***Deprecat
 
 
 ## Books
-- [**The Art of Memory Forensics**]() - Detecting Malware and Threats in Windows, Linux, and Mac Memory
-- [**Practical Memory Forensics**]() - Jumpstart effective forensic analysis of volatile memory
+- [**The Art of Memory Forensics**](https://www.amazon.com/Art-Memory-Forensics-Detecting-Malware/dp/1118825098) - Detecting Malware and Threats in Windows, Linux, and Mac Memory
+- [**Practical Memory Forensics**](https://www.amazon.com/Practical-Memory-Forensics-Jumpstart-effective/dp/1801070334) - Jumpstart effective forensic analysis of volatile memory
 
 
 ## Course
