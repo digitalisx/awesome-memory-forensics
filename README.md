@@ -79,6 +79,8 @@ extraction of digital artifacts from volatile memory (RAM) samples. (***Deprecat
 
 
 ### Blogs
+- [Memory analysis using volatility3 (1) - Windows 10](https://cpuu.postype.com/post/9993241)
+- [Memory analysis using volatility3 (2) - Ubuntu Linux](https://cpuu.postype.com/post/11807930)
 
 ### WriteUps
 
@@ -113,7 +115,9 @@ extraction of digital artifacts from volatile memory (RAM) samples. (***Deprecat
 
 
 ## 🌳 Contributors
-Thank you for your 
+Thank you for your contribution!
+
+We welcome any contribution to the extent that Code of Conduct and the License comply.
 
 <a href="https://github.com/Digitalisx/awesome-memory-forensics/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Digitalisx/awesome-memory-forensics" />
