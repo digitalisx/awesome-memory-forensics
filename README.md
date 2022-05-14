@@ -85,6 +85,10 @@ extraction of digital artifacts from volatile memory (RAM) samples. (***Deprecat
 ### WriteUps
 
 ## Papers
+### DFRWS USA 2022
+- [Memory Analysis of .NET and .Net Core Applications](https://dfrws.org/presentation/memory-analysis-of-net-and-net-core-applications)
+- [Juicing V8: A Primary Account for the Memory Forensics of the V8 JavaScript Engine](https://dfrws.org/presentation/juicing-v8-a-primary-account-for-the-memory-forensics-of-the-v8-javascript-engine/)
+
 ### DFRWS EU 2022
 - Extraction and analysis of retrievable memory artifacts from Windows Telegram Desktop application
 - Defining Atomicity (and Integrity) for Snapshots of Storage in Forensic Computing
