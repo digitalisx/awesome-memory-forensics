@@ -69,7 +69,10 @@ extraction of digital artifacts from volatile memory (RAM) samples.
 - Forensic Memory Acquisition in Linux - LiME
 - 
 
-### Black Hat
+### Black Hat 2022
+- [New Memory Forensics Techniques to Defeat Device Monitoring Malware](https://www.blackhat.com/us-22/briefings/schedule/index.html#new-memory-forensics-techniques-to-defeat-device-monitoring-malware-27403)
+
+### Black Hat 2019
 - [Investigating Malware Using Memory Forensics - A Practical Approach](https://www.youtube.com/watch?v=BMFCdAGxVN4)
 
 ### SANS Digital Forensics and Incident Response
