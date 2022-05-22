@@ -116,6 +116,8 @@ extraction of digital artifacts from volatile memory (RAM) samples.
 - Seance: Divination of Tool-Breaking Changes in Forensically Important Binaries
 - Leveraging Intel DCI for Memory Forensics
 
+### DFRWS EU 2021
+- [One key to rule them all: Recovering the master key from RAM to break Android’s file-based encryption](https://dfrws.org/presentation/one-key-to-rule-them-all-recovering-the-master-key-from-ram-to-break-androids-file-based-encryption/)
 
 ## Test Dataset
 
