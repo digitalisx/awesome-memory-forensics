@@ -102,6 +102,9 @@ extraction of digital artifacts from volatile memory (RAM) samples.
 ### WriteUps
 
 ## Papers
+
+### Digital Investigation
+
 ### DFRWS USA 2022
 - [Memory Analysis of .NET and .Net Core Applications](https://dfrws.org/presentation/memory-analysis-of-net-and-net-core-applications)
 - [Juicing V8: A Primary Account for the Memory Forensics of the V8 JavaScript Engine](https://dfrws.org/presentation/juicing-v8-a-primary-account-for-the-memory-forensics-of-the-v8-javascript-engine/)
@@ -118,6 +121,11 @@ extraction of digital artifacts from volatile memory (RAM) samples.
 
 ### DFRWS EU 2021
 - [One key to rule them all: Recovering the master key from RAM to break Android’s file-based encryption](https://dfrws.org/presentation/one-key-to-rule-them-all-recovering-the-master-key-from-ram-to-break-androids-file-based-encryption/)
+
+### DFRWS USA 2020
+- [Hiding Process Memory via Anti-Forensic Techniques](http://dfrws.org/presentation/hiding-process-memory-via-anti-forensic-techniques/)
+- [Memory Analysis of macOS Page Queues](https://dfrws.org/presentation/memory-analysis-of-macos-page-queues/)
+- [Memory FORESHADOW: Memory FOREnSics of HArDware cryptOcurrency Wallets – A Tool and Visualization Framework](https://dfrws.org/presentation/memory-foreshadow-memory-forensics-of-hardware-cryptocurrency-wallets-a-tool-and-visualizaton-framework/)
 
 ## Test Dataset
 
