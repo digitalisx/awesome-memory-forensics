@@ -104,6 +104,7 @@ extraction of digital artifacts from volatile memory (RAM) samples.
 ## Papers
 
 ### Digital Investigation
+- [The evidence beyond the wall: Memory forensics in SGX environments](https://www.sciencedirect.com/science/article/abs/pii/S2666281721002389)
 
 ### DFRWS USA 2022
 - [Memory Analysis of .NET and .Net Core Applications](https://dfrws.org/presentation/memory-analysis-of-net-and-net-core-applications)
