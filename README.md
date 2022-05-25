@@ -84,6 +84,9 @@ extraction of digital artifacts from volatile memory (RAM) samples.
 ### SANS Digital Forensics and Incident Response
 - [SANS DFIR Webcast - Memory Forensics for Incident Response](https://www.youtube.com/watch?v=3xAEsDT-4NA)
 
+### ETC
+- [Memory Forensics with Jupyter Notebooks](https://www.youtube.com/watch?v=MaKYas4sOfU)
+
 ## Articles
 
 ### JPCERT
