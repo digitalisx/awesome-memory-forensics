@@ -7,7 +7,7 @@ A curated list of awesome Memory Forensics for DFIR.
 >  [Memory Forensics](https://en.wikipedia.org/wiki/Memory_forensics) is forensic analysis of a computer's memory dump. Its primary application is investigation of advanced computer attacks which are stealthy enough to avoid leaving data on the computer's hard drive. Consequently, the memory (RAM) must be analyzed for forensic information.
 
 # Fundamental
-- Operating Systems
+- [Operating Systems](https://www.amazon.com/gp/product/B07CVKH7BD)
 - Computer Structure
 - Reverse Engineering
 - Malware Analysis
