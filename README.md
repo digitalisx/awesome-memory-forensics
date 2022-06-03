@@ -15,7 +15,7 @@ A curated list of awesome Memory Forensics for DFIR.
 - Digital Forensics
 - Incident Response
 
-## ⚙️ Tools
+## ⚙️ Tool
 
 ## Memory Acquisition
 Introduce commercial and open source tools for memory acquisition.
