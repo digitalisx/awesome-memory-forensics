@@ -25,7 +25,7 @@ Introduce commercial and open source tools for memory acquisition.
 - [**Winpmem**](https://github.com/Velocidex/WinPmem)
 - [**Ram Capturer**](https://belkasoft.com/ram-capturer)
 - [**LiME**](https://github.com/504ensicsLabs/LiME)
-- [**AVML**](https://github.com/microsoft/avml)
+- [**AVML**](https://github.com/microsoft/avml) - AVML is an X86_64 userland volatile memory acquisition tool written in Rust, intended to be deployed as a static binary. 
 - [**fmem**](https://github.com/NateBrune/fmem)
 - [**FEX Memory Imager**](https://getdataforensics.com/product/fex-memory-imager/) - FEX Memory Imager (FEX Memory) is a free imaging tool designed to capture the physical Random Access Memory (RAM) of a suspect’s running computer. This allows investigators to recover and analyze valuable artifacts found only in memory.
 - [MacQuisition](https://www.blackbagtech.com/category/blog/macquisition/)
