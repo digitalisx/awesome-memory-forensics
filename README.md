@@ -6,20 +6,12 @@ A curated list of awesome Memory Forensics for DFIR.
 
 >  [Memory Forensics](https://en.wikipedia.org/wiki/Memory_forensics) is forensic analysis of a computer's memory dump. Its primary application is investigation of advanced computer attacks which are stealthy enough to avoid leaving data on the computer's hard drive. Consequently, the memory (RAM) must be analyzed for forensic information.
 
-# Fundamental
-- [Operating Systems](https://www.amazon.com/gp/product/B07CVKH7BD)
-- Computer Structure
-- Reverse Engineering
-- Malware Analysis
-- Windows Internals
-- Digital Forensics
-- Incident Response
-
 ## ⚙️ Tool
 
 ## Memory Acquisition
 Introduce commercial and open source tools for memory acquisition.
 
+### Software
 - [**MAGNET RAM**](https://www.magnetforensics.com/resources/magnet-ram-capture/)
 - [**FTK Imager**](https://www.exterro.com/ftk-imager)
 - [**Winpmem**](https://github.com/Velocidex/WinPmem)
@@ -28,8 +20,10 @@ Introduce commercial and open source tools for memory acquisition.
 - [**AVML**](https://github.com/microsoft/avml) - AVML is an X86_64 userland volatile memory acquisition tool written in Rust, intended to be deployed as a static binary. 
 - [**fmem**](https://github.com/NateBrune/fmem)
 - [**FEX Memory Imager**](https://getdataforensics.com/product/fex-memory-imager/) - FEX Memory Imager (FEX Memory) is a free imaging tool designed to capture the physical Random Access Memory (RAM) of a suspect’s running computer. This allows investigators to recover and analyze valuable artifacts found only in memory.
-- [MacQuisition](https://www.blackbagtech.com/category/blog/macquisition/)
-- [PCILeech](https://github.com/ufrisk/pcileech) - PCILeech uses PCIe hardware devices to read and write target system memory. This is achieved by using DMA over PCIe. No drivers are needed on the target system.
+- [**MacQuisition**](https://www.blackbagtech.com/category/blog/macquisition/)
+
+### Hardware
+- [**PCILeech**](https://github.com/ufrisk/pcileech) - PCILeech uses PCIe hardware devices to read and write target system memory. This is achieved by using DMA over PCIe. No drivers are needed on the target system.
 
 ## Memory Analysis
 Introduce commercial and open source tools for memory analysis.
