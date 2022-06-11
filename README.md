@@ -12,7 +12,7 @@ A curated list of awesome Memory Forensics for DFIR.
 Introduce commercial and open source tools for memory acquisition.
 
 ### Software
-- [**MAGNET RAM**](https://www.magnetforensics.com/resources/magnet-ram-capture/)
+- [**MAGNET RAM**](https://www.magnetforensics.com/resources/magnet-ram-capture/) - MAGNET RAM Capture is a free imaging tool designed to capture the physical memory of a suspect’s computer, allowing investigators to recover and analyze valuable artifacts that are often only found in memory.
 - [**FTK Imager**](https://www.exterro.com/ftk-imager)
 - [**Winpmem**](https://github.com/Velocidex/WinPmem)
 - [**Ram Capturer**](https://belkasoft.com/ram-capturer)
