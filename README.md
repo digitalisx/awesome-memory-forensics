@@ -15,7 +15,7 @@ Introduce commercial and open source tools for memory acquisition.
 - [**MAGNET RAM**](https://www.magnetforensics.com/resources/magnet-ram-capture/) - MAGNET RAM Capture is a free imaging tool designed to capture the physical memory of a suspect’s computer, allowing investigators to recover and analyze valuable artifacts that are often only found in memory.
 - [**FTK Imager**](https://www.exterro.com/ftk-imager)
 - [**Winpmem**](https://github.com/Velocidex/WinPmem)
-- [**Ram Capturer**](https://belkasoft.com/ram-capturer)
+- [**Ram Capturer**](https://belkasoft.com/ram-capturer) - Belkasoft Live RAM Capturer is a tiny free forensic tool that allows to reliably extract the entire contents of computer’s volatile memory—even if protected by an active anti-debugging or anti-dumping system.
 - [**LiME**](https://github.com/504ensicsLabs/LiME) - A Loadable Kernel Module (LKM) which allows for volatile memory acquisition from Linux and Linux-based devices, such as Android. 
 - [**AVML**](https://github.com/microsoft/avml) - AVML is an X86_64 userland volatile memory acquisition tool written in Rust, intended to be deployed as a static binary. 
 - [**fmem**](https://github.com/NateBrune/fmem)
