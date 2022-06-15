@@ -77,6 +77,9 @@ extraction of digital artifacts from volatile memory (RAM) samples.
 ### Black Hat 2019
 - [Investigating Malware Using Memory Forensics - A Practical Approach](https://www.youtube.com/watch?v=BMFCdAGxVN4)
 
+### Black Hat 2012
+- [One-byte Modification for Breaking Memory Forensic Analysis](https://www.youtube.com/watch?v=HPgHLUVjxBU)
+
 ### SANS Digital Forensics and Incident Response
 - [SANS DFIR Webcast - Memory Forensics for Incident Response](https://www.youtube.com/watch?v=3xAEsDT-4NA)
 
