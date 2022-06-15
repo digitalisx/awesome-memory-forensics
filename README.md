@@ -1,10 +1,12 @@
-# Awesome Memory Forensics
-
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Memory Forensics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome Memory Forensics for DFIR.
 
 > [Memory Forensics](https://en.wikipedia.org/wiki/Memory_forensics) is forensic analysis of a computer's memory dump. Its primary application is investigation of advanced computer attacks which are stealthy enough to avoid leaving data on the computer's hard drive. Consequently, the memory (RAM) must be analyzed for forensic information.
+
+If you want to contribute, please read the [contribution guidelines](contributing.md).
+
+# Contents
 
 ## ⚙️ Tool
 
@@ -36,7 +38,7 @@ implemented in Python under the GNU General Public License, for the
 extraction of digital artifacts from volatile memory (RAM) samples.
 - [Volafox](https://github.com/n0fate/volafox) - macOS Memory Analysis Toolkit' is developed on Python 2.x (***Deprecated***)
 - [Rekall](https://github.com/google/rekall) - A new branch within the Volatility project was created to explore how to make the code base more modular, improve performance, and increase usability. (***Deprecated***)
-- [Redline](https://fireeye.market/apps/211364) - Redline®, FireEye’s premier free endpoint security tool, provides host investigative capabilities to users to find signs of malicious activity through memory and file analysis and the development of a threat assessment profile.
+- [Redline](https://fireeye.market/apps/211364) - Redline®, FireEye's premier free endpoint security tool, provides host investigative capabilities to users to find signs of malicious activity through memory and file analysis and the development of a threat assessment profile.
 
 
 ## Books
