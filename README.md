@@ -6,7 +6,7 @@ A curated list of awesome Memory Forensics for DFIR.
 
 If you want to contribute, please read the [contribution guidelines](contributing.md).
 
-# Contents
+**Table of Contents**
 - [Tool](#tool)
 
 
