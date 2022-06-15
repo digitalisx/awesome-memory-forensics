@@ -70,6 +70,7 @@ extraction of digital artifacts from volatile memory (RAM) samples.
 - [Amazon AWS EC2 Forensic Memory Acquisition - LiME](https://www.youtube.com/watch?v=3oto8Bl2vaE)
 - [Forensic Memory Acquisition in Linux - LiME](https://www.youtube.com/watch?v=_7Tq8dcmP0k)
 - [Forensic Memory Acquisition in Windows - FTK Imager](https://www.youtube.com/watch?v=1OxR4KLj-4I)
+- [Fast password cracking - Hashcat wordlists from RAM](https://www.youtube.com/watch?v=lOTDevvqOq0)
 
 ### Black Hat 2022
 - [New Memory Forensics Techniques to Defeat Device Monitoring Malware](https://www.blackhat.com/us-22/briefings/schedule/index.html#new-memory-forensics-techniques-to-defeat-device-monitoring-malware-27403)
