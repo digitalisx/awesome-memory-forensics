@@ -20,10 +20,10 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ## Tool
 
-## Memory Acquisition
+### Memory Acquisition
 Introduce commercial and open source tools for memory acquisition.
 
-### Software
+#### Software
 - [MAGNET RAM](https://www.magnetforensics.com/resources/magnet-ram-capture/) - MAGNET RAM Capture is a free imaging tool designed to capture the physical memory of a suspect's computer, allowing investigators to recover and analyze valuable artifacts that are often only found in memory.
 - [FTK Imager](https://www.exterro.com/ftk-imager)
 - [Winpmem](https://github.com/Velocidex/WinPmem)
@@ -34,10 +34,10 @@ Introduce commercial and open source tools for memory acquisition.
 - [FEX Memory Imager](https://getdataforensics.com/product/fex-memory-imager/) - FEX Memory Imager (FEX Memory) is a free imaging tool designed to capture the physical Random Access Memory (RAM) of a suspect's running computer. This allows investigators to recover and analyze valuable artifacts found only in memory.
 - [MacQuisition](https://www.blackbagtech.com/category/blog/macquisition/)
 
-### Hardware
+#### Hardware
 - [PCILeech](https://github.com/ufrisk/pcileech) - PCILeech uses PCIe hardware devices to read and write target system memory. This is achieved by using DMA over PCIe. No drivers are needed on the target system.
 
-## Memory Analysis
+### Memory Analysis
 Introduce commercial and open source tools for memory analysis.
 - [Volcano](https://www.volexity.com/products-overview/volcano) - A comprehensive, cross-platform, next- generation memory analysis solution, Volexity Volcano Professional's powerful core extracts, indexes, and correlates artifacts to provide unprecedented visibility into systems' runtime state and trustworthiness.
 - [Volatility3](https://github.com/volatilityfoundation/volatility3) - Volatility is the world's most widely used framework for extracting digital artifacts from volatile memory (RAM) samples.
