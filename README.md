@@ -8,6 +8,14 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 **Table of Contents**
 - [Tool](#tool)
+- [Books](#books)
+- [Course](#course)
+- [Videos](#videos)
+- [Articles](#articles)
+- [Papers](#papers)
+- [Datasets](#datasets)
+- [Challenges](#challenges)
+- [Contributors](#contributors)
 
 
 ## Tool
@@ -51,7 +59,7 @@ extraction of digital artifacts from volatile memory (RAM) samples.
 ## Course
 - [Malware and Memory Forensics Training**](https://www.memoryanalysis.net/memory-forensics-training)
 
-## 🖥 Videos
+## Videos
 
 ### 13 Cubed
 - [Introduction to Memory Forensics](https://www.youtube.com/watch?v=1PAGcPJFwbE)
@@ -135,14 +143,14 @@ extraction of digital artifacts from volatile memory (RAM) samples.
 - [Memory Analysis of macOS Page Queues](https://dfrws.org/presentation/memory-analysis-of-macos-page-queues/)
 - [Memory FORESHADOW: Memory FOREnSics of HArDware cryptOcurrency Wallets – A Tool and Visualization Framework](https://dfrws.org/presentation/memory-foreshadow-memory-forensics-of-hardware-cryptocurrency-wallets-a-tool-and-visualizaton-framework/)
 
-## Test Dataset
+## Datasets
 
 - Digital Corpora
 - NIST
 - Memory Forensic Training
 - [MemLabs](https://github.com/stuxnet999/MemLabs)
 
-## 🏆 Challenges
+## Challenges
 - [2021 Volatility Plugin Contest](https://volatility-labs.blogspot.com/2022/02/the-2021-volatility-plugin-contest-results.html)
 - [2020 Volatility Plugin Contest](https://volatility-labs.blogspot.com/2020/11/the-2020-volatility-plugin-contest-results.html)
 - [2019 Volatility Plugin & Analysis Contests](https://volatility-labs.blogspot.com/2019/11/results-from-2019-volatility-contests.html)
@@ -155,7 +163,7 @@ extraction of digital artifacts from volatile memory (RAM) samples.
 - [2013 Volatility Plugin Contest](https://www.volatilityfoundation.org/2013-c19yz)
 
 
-## 🌳 Contributors
+## Contributors
 Thank you for your contribution!
 
 We welcome any contribution to the extent that Code of Conduct and the License comply.
