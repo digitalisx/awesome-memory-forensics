@@ -12,58 +12,58 @@ A curated list of awesome Memory Forensics for DFIR.
 Introduce commercial and open source tools for memory acquisition.
 
 ### Software
-- [**MAGNET RAM**](https://www.magnetforensics.com/resources/magnet-ram-capture/) - MAGNET RAM Capture is a free imaging tool designed to capture the physical memory of a suspect’s computer, allowing investigators to recover and analyze valuable artifacts that are often only found in memory.
-- [**FTK Imager**](https://www.exterro.com/ftk-imager)
-- [**Winpmem**](https://github.com/Velocidex/WinPmem)
-- [**Ram Capturer**](https://belkasoft.com/ram-capturer) - Belkasoft Live RAM Capturer is a tiny free forensic tool that allows to reliably extract the entire contents of computer’s volatile memory—even if protected by an active anti-debugging or anti-dumping system.
-- [**LiME**](https://github.com/504ensicsLabs/LiME) - A Loadable Kernel Module (LKM) which allows for volatile memory acquisition from Linux and Linux-based devices, such as Android. 
-- [**AVML**](https://github.com/microsoft/avml) - AVML is an X86_64 userland volatile memory acquisition tool written in Rust, intended to be deployed as a static binary. 
-- [**fmem**](https://github.com/NateBrune/fmem)
-- [**FEX Memory Imager**](https://getdataforensics.com/product/fex-memory-imager/) - FEX Memory Imager (FEX Memory) is a free imaging tool designed to capture the physical Random Access Memory (RAM) of a suspect’s running computer. This allows investigators to recover and analyze valuable artifacts found only in memory.
-- [**MacQuisition**](https://www.blackbagtech.com/category/blog/macquisition/)
+- [MAGNET RAM](https://www.magnetforensics.com/resources/magnet-ram-capture/) - MAGNET RAM Capture is a free imaging tool designed to capture the physical memory of a suspect’s computer, allowing investigators to recover and analyze valuable artifacts that are often only found in memory.
+- [FTK Imager](https://www.exterro.com/ftk-imager)
+- [Winpmem](https://github.com/Velocidex/WinPmem)
+- [Ram Capturer](https://belkasoft.com/ram-capturer) - Belkasoft Live RAM Capturer is a tiny free forensic tool that allows to reliably extract the entire contents of computer’s volatile memory—even if protected by an active anti-debugging or anti-dumping system.
+- [LiME](https://github.com/504ensicsLabs/LiME) - A Loadable Kernel Module (LKM) which allows for volatile memory acquisition from Linux and Linux-based devices, such as Android. 
+- [AVML](https://github.com/microsoft/avml) - AVML is an X86_64 userland volatile memory acquisition tool written in Rust, intended to be deployed as a static binary. 
+- [fmem](https://github.com/NateBrune/fmem)
+- [FEX Memory Imager](https://getdataforensics.com/product/fex-memory-imager/) - FEX Memory Imager (FEX Memory) is a free imaging tool designed to capture the physical Random Access Memory (RAM) of a suspect’s running computer. This allows investigators to recover and analyze valuable artifacts found only in memory.
+- [MacQuisition](https://www.blackbagtech.com/category/blog/macquisition/)
 
 ### Hardware
-- [**PCILeech**](https://github.com/ufrisk/pcileech) - PCILeech uses PCIe hardware devices to read and write target system memory. This is achieved by using DMA over PCIe. No drivers are needed on the target system.
+- [PCILeech](https://github.com/ufrisk/pcileech) - PCILeech uses PCIe hardware devices to read and write target system memory. This is achieved by using DMA over PCIe. No drivers are needed on the target system.
 
 ## Memory Analysis
 Introduce commercial and open source tools for memory analysis.
-- [**Volcano**](https://www.volexity.com/products-overview/volcano) - A comprehensive, cross-platform, next- generation memory analysis solution, Volexity Volcano Professional’s powerful core extracts, indexes, and correlates artifacts to provide unprecedented visibility into systems’ runtime state and trustworthiness.
-- [**Volatility3**](https://github.com/volatilityfoundation/volatility3) - Volatility is the world's most widely used framework for extracting digital artifacts from volatile memory (RAM) samples.
-- [**MemProcFS**](https://github.com/ufrisk/MemProcFS) - The Memory Process File System (MemProcFS) is an easy and convenient way of viewing physical memory as files in a virtual file system.
-- [**WinDbg**](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/debugger-download-tools) - The Windows Debugger (WinDbg) can be used to debug kernel-mode and user-mode code, analyze crash dumps, and examine the CPU registers while the code executes.
-- [**Volatility**](https://github.com/volatilityfoundation/volatility) - The Volatility Framework is a completely open collection of tools,
+- [Volcano](https://www.volexity.com/products-overview/volcano) - A comprehensive, cross-platform, next- generation memory analysis solution, Volexity Volcano Professional’s powerful core extracts, indexes, and correlates artifacts to provide unprecedented visibility into systems’ runtime state and trustworthiness.
+- [Volatility3](https://github.com/volatilityfoundation/volatility3) - Volatility is the world's most widely used framework for extracting digital artifacts from volatile memory (RAM) samples.
+- [MemProcFS](https://github.com/ufrisk/MemProcFS) - The Memory Process File System (MemProcFS) is an easy and convenient way of viewing physical memory as files in a virtual file system.
+- [WinDbg](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/debugger-download-tools) - The Windows Debugger (WinDbg) can be used to debug kernel-mode and user-mode code, analyze crash dumps, and examine the CPU registers while the code executes.
+- [Volatility](https://github.com/volatilityfoundation/volatility) - The Volatility Framework is a completely open collection of tools,
 implemented in Python under the GNU General Public License, for the
 extraction of digital artifacts from volatile memory (RAM) samples.
-- [**Volafox**](https://github.com/n0fate/volafox) - macOS Memory Analysis Toolkit' is developed on Python 2.x (***Deprecated***)
-- [**Rekall**](https://github.com/google/rekall) - A new branch within the Volatility project was created to explore how to make the code base more modular, improve performance, and increase usability. (***Deprecated***)
-- [**Redline**]()
+- [Volafox](https://github.com/n0fate/volafox) - macOS Memory Analysis Toolkit' is developed on Python 2.x (***Deprecated***)
+- [Rekall](https://github.com/google/rekall) - A new branch within the Volatility project was created to explore how to make the code base more modular, improve performance, and increase usability. (***Deprecated***)
+- [Redline]()
 
 
 ## Books
-- [**The Art of Memory Forensics**](https://www.amazon.com/Art-Memory-Forensics-Detecting-Malware/dp/1118825098) - Detecting Malware and Threats in Windows, Linux, and Mac Memory
-- [**Practical Memory Forensics**](https://www.amazon.com/Practical-Memory-Forensics-Jumpstart-effective/dp/1801070334) - Jumpstart effective forensic analysis of volatile memory
+- [The Art of Memory Forensics](https://www.amazon.com/Art-Memory-Forensics-Detecting-Malware/dp/1118825098) - Detecting Malware and Threats in Windows, Linux, and Mac Memory
+- [Practical Memory Forensics](https://www.amazon.com/Practical-Memory-Forensics-Jumpstart-effective/dp/1801070334) - Jumpstart effective forensic analysis of volatile memory
 
 
 ## Course
-- [**Malware and Memory Forensics Training**](https://www.memoryanalysis.net/memory-forensics-training)
+- [Malware and Memory Forensics Training**](https://www.memoryanalysis.net/memory-forensics-training)
 
 ## 🖥 Videos
 
 ### 13 Cubed
-- [**Introduction to Memory Forensics**](https://www.youtube.com/watch?v=1PAGcPJFwbE)
-- [**Windows Memory Analysis**](https://www.youtube.com/watch?v=gHbejxlPbRQ)
-- [**Windows Process Genealogy**](https://www.youtube.com/watch?v=s98_p3bheL0)
-- [**Windows Process Genealogy (Update)**](https://www.youtube.com/watch?v=vpSIw-zGhhE)
-- [**Memory Forensics Baselines**](https://www.youtube.com/watch?v=1thWaC6uvI4)
-- [**Extracting Prefetch from Memory**](https://www.youtube.com/watch?v=6y9Wxch7NKk)
-- [**Detecting Persistence in Memory**](https://www.youtube.com/watch?v=shF8hAprD4g)
-- [**Introduction to Redline**](https://www.youtube.com/watch?v=tCIEYCWTdk4)
-- [**Introduction to Redline (Update)**](https://www.youtube.com/watch?v=Oiac0t0RllM)
-- [**Profiling Network Activity with Volatility 3 - GeoIP from Memory**](https://www.youtube.com/watch?v=egv63oso8Qc)
-- [**Volatility Profiles and Windows 10**](https://www.youtube.com/watch?v=Us1gbPqtdtY)
-- [**Dumping Processes with Volatility 3**](https://www.youtube.com/watch?v=v9oFztyRkbA)
-- [**First Look at Volatility 3 Public Beta**](https://www.youtube.com/watch?v=ozeedYjv5Lw)
-- [**Volatility 3 and WSL 2 - Linux DFIR Tools in Windows?**](https://www.youtube.com/watch?v=rwTWZ7Q5i_w)
+- [Introduction to Memory Forensics](https://www.youtube.com/watch?v=1PAGcPJFwbE)
+- [Windows Memory Analysis](https://www.youtube.com/watch?v=gHbejxlPbRQ)
+- [Windows Process Genealogy](https://www.youtube.com/watch?v=s98_p3bheL0)
+- [Windows Process Genealogy (Update)](https://www.youtube.com/watch?v=vpSIw-zGhhE)
+- [Memory Forensics Baselines](https://www.youtube.com/watch?v=1thWaC6uvI4)
+- [Extracting Prefetch from Memory](https://www.youtube.com/watch?v=6y9Wxch7NKk)
+- [Detecting Persistence in Memory](https://www.youtube.com/watch?v=shF8hAprD4g)
+- [Introduction to Redline](https://www.youtube.com/watch?v=tCIEYCWTdk4)
+- [Introduction to Redline (Update)](https://www.youtube.com/watch?v=Oiac0t0RllM)
+- [Profiling Network Activity with Volatility 3 - GeoIP from Memory](https://www.youtube.com/watch?v=egv63oso8Qc)
+- [Volatility Profiles and Windows 10](https://www.youtube.com/watch?v=Us1gbPqtdtY)
+- [Dumping Processes with Volatility 3](https://www.youtube.com/watch?v=v9oFztyRkbA)
+- [First Look at Volatility 3 Public Beta](https://www.youtube.com/watch?v=ozeedYjv5Lw)
+- [Volatility 3 and WSL 2 - Linux DFIR Tools in Windows?](https://www.youtube.com/watch?v=rwTWZ7Q5i_w)
 
 ### DFIR Science
 - [Introduction to Memory Forensics with Volatility 3](https://www.youtube.com/watch?v=Uk3DEgY5Ue8)
@@ -139,16 +139,16 @@ extraction of digital artifacts from volatile memory (RAM) samples.
 - [MemLabs](https://github.com/stuxnet999/MemLabs)
 
 ## 🏆 Challenges
-- [**2021 Volatility Plugin Contest**](https://volatility-labs.blogspot.com/2022/02/the-2021-volatility-plugin-contest-results.html)
-- [**2020 Volatility Plugin Contest**](https://volatility-labs.blogspot.com/2020/11/the-2020-volatility-plugin-contest-results.html)
-- [**2019 Volatility Plugin & Analysis Contests**](https://volatility-labs.blogspot.com/2019/11/results-from-2019-volatility-contests.html)
-- [**2018 Volatility Plugin & Analysis Contests**](https://volatility-labs.blogspot.com/2018/11/results-from-annual-2018-volatility-contests.html)
-- [**2017 Volatility Plugin Contest**](https://volatility-labs.blogspot.com/2017/11/results-from-5th-annual-2017-volatility.html)
-- [**2016 Volatility Plugin Contest**](https://volatility-labs.blogspot.com/2016/12/results-from-2016-volatility-plugin.html)
-- [**2015 Volatility Plugin Contest**](https://www.volatilityfoundation.org/2015)
-- [**2015 DFRWS Forensic Challenge**](https://github.com/dfrws/dfrws2005-challenge)
-- [**2014 Volatility Plugin Contest**](https://www.volatilityfoundation.org/2014-cjpn)
-- [**2013 Volatility Plugin Contest**](https://www.volatilityfoundation.org/2013-c19yz)
+- [2021 Volatility Plugin Contest](https://volatility-labs.blogspot.com/2022/02/the-2021-volatility-plugin-contest-results.html)
+- [2020 Volatility Plugin Contest](https://volatility-labs.blogspot.com/2020/11/the-2020-volatility-plugin-contest-results.html)
+- [2019 Volatility Plugin & Analysis Contests](https://volatility-labs.blogspot.com/2019/11/results-from-2019-volatility-contests.html)
+- [2018 Volatility Plugin & Analysis Contests](https://volatility-labs.blogspot.com/2018/11/results-from-annual-2018-volatility-contests.html)
+- [2017 Volatility Plugin Contest](https://volatility-labs.blogspot.com/2017/11/results-from-5th-annual-2017-volatility.html)
+- [2016 Volatility Plugin Contest](https://volatility-labs.blogspot.com/2016/12/results-from-2016-volatility-plugin.html)
+- [2015 Volatility Plugin Contest](https://www.volatilityfoundation.org/2015)
+- [2015 DFRWS Forensic Challenge](https://github.com/dfrws/dfrws2005-challenge)
+- [2014 Volatility Plugin Contest](https://www.volatilityfoundation.org/2014-cjpn)
+- [2013 Volatility Plugin Contest](https://www.volatilityfoundation.org/2013-c19yz)
 
 
 ## 🌳 Contributors
