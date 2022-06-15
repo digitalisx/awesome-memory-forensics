@@ -1,4 +1,4 @@
-# Awesome Memory Forensics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Memory Forensics [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome Memory Forensics for DFIR.
 
@@ -7,8 +7,10 @@ A curated list of awesome Memory Forensics for DFIR.
 If you want to contribute, please read the [contribution guidelines](contributing.md).
 
 # Contents
+- [Tool](#tool)
 
-## ⚙️ Tool
+
+## Tool
 
 ## Memory Acquisition
 Introduce commercial and open source tools for memory acquisition.
