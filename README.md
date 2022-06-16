@@ -57,7 +57,8 @@ extraction of digital artifacts from volatile memory (RAM) samples.
 
 
 ## Course
-- [Malware and Memory Forensics Training**](https://www.memoryanalysis.net/memory-forensics-training)
+- [Malware and Memory Forensics Training](https://www.memoryanalysis.net/memory-forensics-training)
+- [A Complete Practical Approach To Malware Analysis And Memory Forensics - 2022 Edition](https://www.blackhat.com/us-22/training/schedule/index.html#a-complete-practical-approach-to-malware-analysis-and-memory-forensics----edition-25509)
 
 ## Videos
 
