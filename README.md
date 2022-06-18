@@ -24,6 +24,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 Introduce commercial and open source tools for memory acquisition.
 
 #### Software
+- [Surge](https://www.volexity.com/products-overview/surge/) - Volexity's Surge Collect offers flexible storage options and an intuitive interface that any responder can run to eliminate the issues associated with the corrupt data samples, crashed target computers, and ultimately, unusable data that commonly results from using other tools.
 - [MAGNET RAM](https://www.magnetforensics.com/resources/magnet-ram-capture/) - MAGNET RAM Capture is a free imaging tool designed to capture the physical memory of a suspect's computer, allowing investigators to recover and analyze valuable artifacts that are often only found in memory.
 - [FTK Imager](https://www.exterro.com/ftk-imager)
 - [Winpmem](https://github.com/Velocidex/WinPmem)
