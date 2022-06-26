@@ -150,7 +150,7 @@ extraction of digital artifacts from volatile memory (RAM) samples.
 
 - Digital Corpora
 - NIST
-- [Memory Forensic Training](https://www.memoryanalysis.net/memory-forensics-training)
+- [The Art of Memory Forensics](https://www.memoryanalysis.net/amf)
 - [MemLabs](https://github.com/stuxnet999/MemLabs)
 
 ## Challenges
