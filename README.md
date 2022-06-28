@@ -146,6 +146,11 @@ extraction of digital artifacts from volatile memory (RAM) samples.
 - [Memory Analysis of macOS Page Queues](https://dfrws.org/presentation/memory-analysis-of-macos-page-queues/)
 - [Memory FORESHADOW: Memory FOREnSics of HArDware cryptOcurrency Wallets – A Tool and Visualization Framework](https://dfrws.org/presentation/memory-foreshadow-memory-forensics-of-hardware-cryptocurrency-wallets-a-tool-and-visualizaton-framework/)
 
+### DFRWS EU 2020
+- [BMCLeech: Introducing Stealthy Memory Forensics to BMC Tobias Latzo](http://dfrws.org/wp-content/uploads/2020/05/BMCLeech-Introducing-Stealthy-Memor_2020_Forensic-Science-International-Di.pdf)
+- [Tampering Digital Evidence is Hard: The Case of Main Memory Images](http://dfrws.org/wp-content/uploads/2020/05/Tampering-with-Digital-Evidence-is-Hard-_2020_Forensic-Science-Internationa.pdf)
+- [On Challenges in Verifying Trusted Executable Files in Memory Forensics](http://dfrws.org/wp-content/uploads/2020/05/On-Challenges-in-Verifying-Trusted-Execut_2020_Forensic-Science-Internationa.pdf)
+
 ## Datasets
 
 - Digital Corpora
