@@ -178,3 +178,7 @@ We welcome any contribution to the extent that Code of Conduct and the License c
 <a href="https://github.com/Digitalisx/awesome-memory-forensics/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Digitalisx/awesome-memory-forensics" />
 </a>
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
