@@ -16,6 +16,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Datasets](#datasets)
 - [Challenges](#challenges)
 - [Contributors](#contributors)
+- [License](#license)
 
 
 ## Tool
