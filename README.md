@@ -159,6 +159,7 @@ extraction of digital artifacts from volatile memory (RAM) samples.
 - [MemLabs](https://github.com/stuxnet999/MemLabs)
 
 ## Challenges
+- [2022 Volatility Plugin Contest](https://volatility-labs.blogspot.com/2022/07/the-10th-annual-volatility-plugin-contest.html)
 - [2021 Volatility Plugin Contest](https://volatility-labs.blogspot.com/2022/02/the-2021-volatility-plugin-contest-results.html)
 - [2020 Volatility Plugin Contest](https://volatility-labs.blogspot.com/2020/11/the-2020-volatility-plugin-contest-results.html)
 - [2019 Volatility Plugin & Analysis Contests](https://volatility-labs.blogspot.com/2019/11/results-from-2019-volatility-contests.html)
