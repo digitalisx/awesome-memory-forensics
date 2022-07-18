@@ -129,9 +129,9 @@ extraction of digital artifacts from volatile memory (RAM) samples.
 - [Juicing V8: A Primary Account for the Memory Forensics of the V8 JavaScript Engine](https://dfrws.org/presentation/juicing-v8-a-primary-account-for-the-memory-forensics-of-the-v8-javascript-engine/)
 
 ### DFRWS EU 2022
-- Extraction and analysis of retrievable memory artifacts from Windows Telegram Desktop application
-- Defining Atomicity (and Integrity) for Snapshots of Storage in Forensic Computing
-- Memory forensic analysis of a programmable logic controller in industrial control systems
+- [Extraction and analysis of retrievable memory artifacts from Windows Telegram Desktop application](https://dfrws.org/presentation/extraction-and-analysis-of-retrievable-memory-artifacts-from-windows-telegram-desktop-application/)
+- [Defining Atomicity (and Integrity) for Snapshots of Storage in Forensic Computing](https://dfrws.org/presentation/defining-atomicity-and-integrity-for-snapshots-of-storage-in-forensic-computing/)
+- [Memory forensic analysis of a programmable logic controller in industrial control systems](https://dfrws.org/presentation/memory-forensic-analysis-of-a-programmable-logic-controller-in-industrial-control-systems/)
 
 ### DFRWS USA 2021
 - Duck Hunt: Memory Forensics of USB Attack Platforms
