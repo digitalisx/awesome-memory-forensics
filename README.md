@@ -135,9 +135,9 @@ extraction of digital artifacts from volatile memory (RAM) samples.
 - [Memory forensic analysis of a programmable logic controller in industrial control systems](https://dfrws.org/presentation/memory-forensic-analysis-of-a-programmable-logic-controller-in-industrial-control-systems/)
 
 ### DFRWS USA 2021
-- Duck Hunt: Memory Forensics of USB Attack Platforms
-- Seance: Divination of Tool-Breaking Changes in Forensically Important Binaries
-- Leveraging Intel DCI for Memory Forensics
+- [Duck Hunt: Memory Forensics of USB Attack Platforms](https://dfrws.org/presentation/duck-hunt-memory-forensics-of-usb-attack-platforms/)
+- [Seance: Divination of Tool-Breaking Changes in Forensically Important Binaries](https://dfrws.org/presentation/seance-divination-of-tool-breaking-changes-in-forensically-important-binaries/)
+- [Leveraging Intel DCI for Memory Forensics](https://dfrws.org/presentation/leveraging-intel-dci-for-memory-forensics/)
 
 ### DFRWS EU 2021
 - [One key to rule them all: Recovering the master key from RAM to break Android's file-based encryption](https://dfrws.org/presentation/one-key-to-rule-them-all-recovering-the-master-key-from-ram-to-break-androids-file-based-encryption/)
