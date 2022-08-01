@@ -80,6 +80,7 @@ extraction of digital artifacts from volatile memory (RAM) samples.
 - [Dumping Processes with Volatility 3](https://www.youtube.com/watch?v=v9oFztyRkbA)
 - [First Look at Volatility 3 Public Beta](https://www.youtube.com/watch?v=ozeedYjv5Lw)
 - [Volatility 3 and WSL 2 - Linux DFIR Tools in Windows?](https://www.youtube.com/watch?v=rwTWZ7Q5i_w)
+- [MemProcFS - This Changes Everything](https://www.youtube.com/watch?v=hjWVUrf7Obk)
 
 ### DFIR Science
 - [Introduction to Memory Forensics with Volatility 3](https://www.youtube.com/watch?v=Uk3DEgY5Ue8)
