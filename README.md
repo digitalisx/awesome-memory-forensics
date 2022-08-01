@@ -52,6 +52,7 @@ extraction of digital artifacts from volatile memory (RAM) samples.
 - [Rekall](https://github.com/google/rekall) - A new branch within the Volatility project was created to explore how to make the code base more modular, improve performance, and increase usability. (***Deprecated***)
 - [Redline](https://fireeye.market/apps/211364) - Redline®, FireEye's premier free endpoint security tool, provides host investigative capabilities to users to find signs of malicious activity through memory and file analysis and the development of a threat assessment profile.
 - [Memoryze](https://www.fireeye.fr/services/freeware/memoryze.html) - Mandiant's Memoryze™ is free memory forensic software that helps incident responders find evil in live memory. Memoryze can acquire and/or analyze memory images and on live systems can include the paging file in its analysis.
+- [dwarf2json](https://github.com/volatilityfoundation/dwarf2json) - Go utility that processes files containing symbol and type information to generate Volatilty3 Intermediate Symbol File (ISF) JSON output suitable for Linux and macOS analysis.
 
 ## Books
 - [The Art of Memory Forensics](https://www.amazon.com/Art-Memory-Forensics-Detecting-Malware/dp/1118825098) - Detecting Malware and Threats in Windows, Linux, and Mac Memory.
