@@ -163,6 +163,7 @@ extraction of digital artifacts from volatile memory (RAM) samples.
 - [NIST](https://cfreds.nist.gov/mem/memory-images.rar)
 - [The Art of Memory Forensics](https://www.memoryanalysis.net/amf)
 - [MemLabs](https://github.com/stuxnet999/MemLabs)
+- [Windows XP](https://downloads.volatilityfoundation.org/volatility3/images/win-xp-laptop-2005-06-25.img.gz)
 
 ## Challenges
 - [2022 Volatility Plugin Contest](https://volatility-labs.blogspot.com/2022/07/the-10th-annual-volatility-plugin-contest.html)
