@@ -119,6 +119,7 @@ extraction of digital artifacts from volatile memory (RAM) samples.
 ### Blogs
 - [Memory analysis using volatility3 (1) - Windows 10](https://cpuu.postype.com/post/9993241)
 - [Memory analysis using volatility3 (2) - Ubuntu Linux](https://cpuu.postype.com/post/11807930)
+- [Realizing Windows Memory Forensics with Volatility and Gimp](https://developpaper.com/ctf-realizing-windows-memory-forensics-with-volatility-and-gimp/)
 
 ### CheastSheet
 - [Volatility3 CheatSheet](https://blog.onfvp.com/post/volatility-cheatsheet/)
