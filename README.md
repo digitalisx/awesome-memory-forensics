@@ -89,6 +89,7 @@ extraction of digital artifacts from volatile memory (RAM) samples.
 - [Forensic Memory Acquisition in Windows - FTK Imager](https://www.youtube.com/watch?v=1OxR4KLj-4I)
 - [Fast password cracking - Hashcat wordlists from RAM](https://www.youtube.com/watch?v=lOTDevvqOq0)
 - [What is Random Access Memory?](https://www.youtube.com/watch?v=7CqWBw6aOrs)
+- [Forensics: What data can you find in RAM?](https://www.youtube.com/watch?v=kkHNhtpa0SU)
 
 ### Black Hat 2022
 - [New Memory Forensics Techniques to Defeat Device Monitoring Malware](https://www.blackhat.com/us-22/briefings/schedule/index.html#new-memory-forensics-techniques-to-defeat-device-monitoring-malware-27403)
