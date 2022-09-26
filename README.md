@@ -39,6 +39,11 @@ Introduce commercial and open source tools for memory acquisition.
 #### Hardware
 - [PCILeech](https://github.com/ufrisk/pcileech) - PCILeech uses PCIe hardware devices to read and write target system memory. This is achieved by using DMA over PCIe. No drivers are needed on the target system.
 
+#### Misc
+- [EVTXtract](https://github.com/williballenthin/EVTXtract) - EVTXtract recovers and reconstructs fragments of EVTX log files from raw binary data, including unallocated space and memory images.
+- [Volatility3 inodes Plugin](https://github.com/forensicxlab/volatility3_plugins/blob/main/inodes.py)
+- [Volatility3 Prefetch Plugin](https://github.com/forensicxlab/volatility3_plugins/blob/main/prefetch.py)
+
 ### Memory Analysis
 Introduce commercial and open source tools for memory analysis.
 - [Volcano](https://www.volexity.com/products-overview/volcano) - A comprehensive, cross-platform, next- generation memory analysis solution, Volexity Volcano Professional's powerful core extracts, indexes, and correlates artifacts to provide unprecedented visibility into systems' runtime state and trustworthiness.
@@ -118,6 +123,7 @@ extraction of digital artifacts from volatile memory (RAM) samples.
 - [Volatility Plugin for Detecting Cobalt Strike Beacon](https://blogs.jpcert.or.jp/en/2018/08/volatility-plugin-for-detecting-cobalt-strike-beacon.html)
 
 ### Blogs
+- [📦 Volatility3 Linux Plugin : Inodes](https://www.forensicxlab.com/posts/inodes/)
 - [Memory analysis using volatility3 (1) - Windows 10](https://cpuu.postype.com/post/9993241)
 - [Memory analysis using volatility3 (2) - Ubuntu Linux](https://cpuu.postype.com/post/11807930)
 - [Realizing Windows Memory Forensics with Volatility and Gimp](https://developpaper.com/ctf-realizing-windows-memory-forensics-with-volatility-and-gimp/)
