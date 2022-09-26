@@ -41,8 +41,8 @@ Introduce commercial and open source tools for memory acquisition.
 
 #### Misc
 - [EVTXtract](https://github.com/williballenthin/EVTXtract) - EVTXtract recovers and reconstructs fragments of EVTX log files from raw binary data, including unallocated space and memory images.
-- [Volatility3 inodes Plugin](https://github.com/forensicxlab/volatility3_plugins/blob/main/inodes.py)
-- [Volatility3 Prefetch Plugin](https://github.com/forensicxlab/volatility3_plugins/blob/main/prefetch.py)
+- [Volatility3 Inodes Plugin](https://github.com/forensicxlab/volatility3_plugins/blob/main/inodes.py) - The plugin is a pushed verion of the lsof plugin extracting inode metadata information from each files.
+- [Volatility3 Prefetch Plugin](https://github.com/forensicxlab/volatility3_plugins/blob/main/prefetch.py) - The plugin is scanning, extracting and parsing Windows Prefetch files from Windows XP to Windows 11.
 
 ### Memory Analysis
 Introduce commercial and open source tools for memory analysis.
@@ -123,6 +123,7 @@ extraction of digital artifacts from volatile memory (RAM) samples.
 - [Volatility Plugin for Detecting Cobalt Strike Beacon](https://blogs.jpcert.or.jp/en/2018/08/volatility-plugin-for-detecting-cobalt-strike-beacon.html)
 
 ### Blogs
+- [📦 Volatility3 Windows Plugin : Prefetch](https://www.forensicxlab.com/posts/prefetch/)
 - [📦 Volatility3 Linux Plugin : Inodes](https://www.forensicxlab.com/posts/inodes/)
 - [Memory analysis using volatility3 (1) - Windows 10](https://cpuu.postype.com/post/9993241)
 - [Memory analysis using volatility3 (2) - Ubuntu Linux](https://cpuu.postype.com/post/11807930)
