@@ -187,6 +187,10 @@ extraction of digital artifacts from volatile memory (RAM) samples.
 - [2013 Volatility Plugin Contest](https://www.volatilityfoundation.org/2013-c19yz)
 - [2005 DFRWS Forensic Challenge](https://github.com/dfrws/dfrws2005-challenge)
 
+- [Let's Defend]([#challenges](https://app.letsdefend.io/challenge/memory-analysis/))
+
+##
+
 ## Contributors
 Thank you for your contribution!
 
