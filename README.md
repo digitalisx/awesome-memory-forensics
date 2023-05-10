@@ -4,7 +4,7 @@ A curated list of awesome Memory Forensics for DFIR.
 
 > [Memory Forensics](https://en.wikipedia.org/wiki/Memory_forensics) is forensic analysis of a computer's memory dump. Its primary application is investigation of advanced computer attacks which are stealthy enough to avoid leaving data on the computer's hard drive. Consequently, the memory (RAM) must be analyzed for forensic information.
 
-If you want to contribute, please read the [contribution guidelines](contributing.md).
+If you want to contribute, please read the [contribution guidelines](CONTRIBUTING.md).
 
 ## Contents
 - [Tool](#tool)
@@ -35,6 +35,7 @@ Introduce commercial and open source tools for memory acquisition.
 - [FEX Memory Imager](https://getdataforensics.com/product/fex-memory-imager/) - FEX Memory Imager (FEX Memory) is a free imaging tool designed to capture the physical Random Access Memory (RAM) of a suspect's running computer. This allows investigators to recover and analyze valuable artifacts found only in memory.
 - [MacQuisition](https://www.blackbagtech.com/category/blog/macquisition/)
 - [Digital Collector](https://cellebrite.com/en/digital-collector/) - A powerful forensic imaging software solution to perform triage, live data acquisition and targeted data collection for Windows and Mac computers.
+- [varc (Volatile Artifact Collector)](https://github.com/cado-security/varc) - varc collects a snapshot of volatile data from a system.
 
 #### Hardware
 - [PCILeech](https://github.com/ufrisk/pcileech) - PCILeech uses PCIe hardware devices to read and write target system memory. This is achieved by using DMA over PCIe. No drivers are needed on the target system.
