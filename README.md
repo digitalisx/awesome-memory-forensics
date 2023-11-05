@@ -128,6 +128,7 @@ extraction of digital artifacts from volatile memory (RAM) samples.
 - [📦 Volatility3 Linux Plugin : Inodes](https://www.forensicxlab.com/posts/inodes/)
 - [Memory analysis using volatility3 (1) - Windows 11](https://cpuu.hashnode.dev/how-to-perform-memory-forensic-analysis-in-windows-11-using-volatility-3)
 - [Memory analysis using volatility3 (2) - Ubuntu Linux](https://cpuu.hashnode.dev/how-to-perform-memory-forensic-analysis-in-linux-using-volatility-3)
+- [Memory analysis using volatility3 (3) - macOS](https://cpuu.hashnode.dev/how-to-perform-memory-forensic-analysis-in-macos-using-volatility-3)
 - [Realizing Windows Memory Forensics with Volatility and Gimp](https://developpaper.com/ctf-realizing-windows-memory-forensics-with-volatility-and-gimp/)
 
 ### CheastSheet
