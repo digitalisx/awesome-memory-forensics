@@ -72,6 +72,7 @@ extraction of digital artifacts from volatile memory (RAM) samples. (***Deprecat
 - [mquire](https://github.com/trailofbits/mquire) - Trail of Bits' Linux memory forensics tool that uses the kernel's embedded BTF and kallsyms, so no external debug symbols or profiles are required.
 - [memflow](https://github.com/memflow/memflow) - Rust framework for physical memory introspection that reads from memory dumps, live VMs and DMA hardware through pluggable connectors.
 - [Volatility MCP Server](https://github.com/bornpresident/Volatility-MCP-Server) - Model Context Protocol (MCP) server that exposes Volatility 3 plugins to LLM clients for AI-assisted memory analysis.
+- [Atlas](https://github.com/AtlasFO/Atlas-Community) - AI-assisted DFIR agent that analyses memory dumps with Volatility 3, alongside disk images and logs with Plaso and YARA, and answers case questions with findings linked to the evidence, in a web dashboard with a full audit trail.
 
 ## Books
 - [The Art of Memory Forensics](https://www.amazon.com/Art-Memory-Forensics-Detecting-Malware/dp/1118825098) - Detecting Malware and Threats in Windows, Linux, and Mac Memory.
